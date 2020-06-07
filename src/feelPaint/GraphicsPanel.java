@@ -15,7 +15,7 @@ public class GraphicsPanel extends JPanel{
         BasicStroke pen1 = new BasicStroke(5);
         gr.setStroke(pen1);
 
-        //Рандомно выбирает цвет и расположение
+        //Рандомно выбирает цвет и расположение;
         for (int i = 0; i < 3; i++) {
             switch(i) {
                 case 0:

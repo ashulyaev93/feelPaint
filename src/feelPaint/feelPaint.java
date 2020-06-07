@@ -27,7 +27,7 @@ public class feelPaint extends JFrame {
             @Override
             public void actionPerformed(ActionEvent e)
             {
-                //Здесь идёт наложение, нужно поправлять и желательно добавлять рандомно по одной фигуре
+                //Здесь идёт наложение, нужно поправлять и желательно добавлять рандомно по одной фигуре;
                 GraphicsPanel graphicsPanel = new GraphicsPanel();
 
                 add(graphicsPanel,

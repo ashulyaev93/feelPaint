@@ -3,6 +3,6 @@ package feelPaint;
 public class Main {
 
     public static void main(String[] args) {
-	new feelPaint();//объявили
+	new feelPaint();//объявили;
     }
 }
